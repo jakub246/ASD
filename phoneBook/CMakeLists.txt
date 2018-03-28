@@ -3,4 +3,4 @@ project(phoneBook)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(phoneBook main.cpp)
+add_executable(phoneBook main.cpp hashArray.h hashArray.cpp)

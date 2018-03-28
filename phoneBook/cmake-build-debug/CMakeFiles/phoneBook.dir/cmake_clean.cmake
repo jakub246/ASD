@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/phoneBook.dir/main.cpp.o"
+  "CMakeFiles/phoneBook.dir/hashArray.cpp.o"
   "phoneBook.pdb"
   "phoneBook"
 )

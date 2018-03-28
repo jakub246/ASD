@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/hashArray.cpp">
+			<Option target="phoneBook"/>
+		</Unit>
+		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/hashArray.h">
+			<Option target="phoneBook"/>
+		</Unit>
 		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/main.cpp">
 			<Option target="phoneBook"/>
 		</Unit>

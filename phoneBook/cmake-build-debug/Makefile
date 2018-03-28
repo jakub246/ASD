@@ -123,6 +123,33 @@ phoneBook/fast:
 	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/build
 .PHONY : phoneBook/fast
 
+hashArray.o: hashArray.cpp.o
+
+.PHONY : hashArray.o
+
+# target to build an object file
+hashArray.cpp.o:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/hashArray.cpp.o
+.PHONY : hashArray.cpp.o
+
+hashArray.i: hashArray.cpp.i
+
+.PHONY : hashArray.i
+
+# target to preprocess a source file
+hashArray.cpp.i:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/hashArray.cpp.i
+.PHONY : hashArray.cpp.i
+
+hashArray.s: hashArray.cpp.s
+
+.PHONY : hashArray.s
+
+# target to generate assembly for a file
+hashArray.cpp.s:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/hashArray.cpp.s
+.PHONY : hashArray.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... phoneBook"
+	@echo "... hashArray.o"
+	@echo "... hashArray.i"
+	@echo "... hashArray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
