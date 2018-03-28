@@ -1,0 +1,13 @@
+Zadania:
+     1. Sortownie liczb z przedziału ( 0, n^2 -1 )
+     2. Quick sort
+        a) iteracyjnie
+        b) rekurencyjnie
+        c) z rekurencją ogonową
+
+_______________________________________
+
+resharper
+
+_______________________________________
+

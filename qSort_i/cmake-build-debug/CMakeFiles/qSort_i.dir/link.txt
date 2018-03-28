@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/qSort_i.dir/main.cpp.o  -o qSort_i 
