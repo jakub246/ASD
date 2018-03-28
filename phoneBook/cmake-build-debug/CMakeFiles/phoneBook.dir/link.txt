@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/phoneBook.dir/main.cpp.o  -o phoneBook 
