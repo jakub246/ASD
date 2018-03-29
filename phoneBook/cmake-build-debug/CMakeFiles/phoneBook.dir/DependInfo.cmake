@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/jakub/CLionProjects/ASD/phoneBook/book.cpp" "/home/jakub/CLionProjects/ASD/phoneBook/cmake-build-debug/CMakeFiles/phoneBook.dir/book.cpp.o"
   "/home/jakub/CLionProjects/ASD/phoneBook/hashArray.cpp" "/home/jakub/CLionProjects/ASD/phoneBook/cmake-build-debug/CMakeFiles/phoneBook.dir/hashArray.cpp.o"
   "/home/jakub/CLionProjects/ASD/phoneBook/main.cpp" "/home/jakub/CLionProjects/ASD/phoneBook/cmake-build-debug/CMakeFiles/phoneBook.dir/main.cpp.o"
+  "/home/jakub/CLionProjects/ASD/phoneBook/notatki.cpp" "/home/jakub/CLionProjects/ASD/phoneBook/cmake-build-debug/CMakeFiles/phoneBook.dir/notatki.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

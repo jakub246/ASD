@@ -123,6 +123,33 @@ phoneBook/fast:
 	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/build
 .PHONY : phoneBook/fast
 
+book.o: book.cpp.o
+
+.PHONY : book.o
+
+# target to build an object file
+book.cpp.o:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/book.cpp.o
+.PHONY : book.cpp.o
+
+book.i: book.cpp.i
+
+.PHONY : book.i
+
+# target to preprocess a source file
+book.cpp.i:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/book.cpp.i
+.PHONY : book.cpp.i
+
+book.s: book.cpp.s
+
+.PHONY : book.s
+
+# target to generate assembly for a file
+book.cpp.s:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/book.cpp.s
+.PHONY : book.cpp.s
+
 hashArray.o: hashArray.cpp.o
 
 .PHONY : hashArray.o
@@ -177,6 +204,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+notatki.o: notatki.cpp.o
+
+.PHONY : notatki.o
+
+# target to build an object file
+notatki.cpp.o:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/notatki.cpp.o
+.PHONY : notatki.cpp.o
+
+notatki.i: notatki.cpp.i
+
+.PHONY : notatki.i
+
+# target to preprocess a source file
+notatki.cpp.i:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/notatki.cpp.i
+.PHONY : notatki.cpp.i
+
+notatki.s: notatki.cpp.s
+
+.PHONY : notatki.s
+
+# target to generate assembly for a file
+notatki.cpp.s:
+	$(MAKE) -f CMakeFiles/phoneBook.dir/build.make CMakeFiles/phoneBook.dir/notatki.cpp.s
+.PHONY : notatki.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +240,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... phoneBook"
+	@echo "... book.o"
+	@echo "... book.i"
+	@echo "... book.s"
 	@echo "... hashArray.o"
 	@echo "... hashArray.i"
 	@echo "... hashArray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... notatki.o"
+	@echo "... notatki.i"
+	@echo "... notatki.s"
 .PHONY : help
 
 

@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/book.cpp">
+			<Option target="phoneBook"/>
+		</Unit>
+		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/book.h">
+			<Option target="phoneBook"/>
+		</Unit>
 		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/hashArray.cpp">
 			<Option target="phoneBook"/>
 		</Unit>
@@ -91,6 +97,9 @@
 			<Option target="phoneBook"/>
 		</Unit>
 		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/main.cpp">
+			<Option target="phoneBook"/>
+		</Unit>
+		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/notatki.cpp">
 			<Option target="phoneBook"/>
 		</Unit>
 		<Unit filename="/home/jakub/CLionProjects/ASD/phoneBook/CMakeLists.txt">
