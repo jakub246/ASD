@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/phoneBook.dir/main.cpp.o  -o phoneBook 
+/usr/bin/c++  -g   CMakeFiles/phoneBook.dir/main.cpp.o CMakeFiles/phoneBook.dir/hashArray.cpp.o CMakeFiles/phoneBook.dir/book.cpp.o CMakeFiles/phoneBook.dir/notatki.cpp.o  -o phoneBook 
